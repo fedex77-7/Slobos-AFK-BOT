@@ -1,5 +1,5 @@
 {
-  "name": "Rexo AFK Bot",
+  "name": "AFK Bot",
   "bot-account": {
     "username": "Technoblade",
     "password": "",
@@ -8,7 +8,7 @@
   "server": {
     "ip": "Rexointernational.aternos.me",
     "port": 24387,
-    "version": "1.26 44.3"
+    "version": "1.26.44.3"
   },
   "position": {
     "enabled": true,
